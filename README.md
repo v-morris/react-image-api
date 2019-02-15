@@ -1,2 +1,4 @@
 # react-image-api
-Image API
+Image API <br/>
+npm install <br/>
+npm start
